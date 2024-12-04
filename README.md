@@ -81,7 +81,7 @@ This project aims to:
 
 ## Authors  
 
-- [Ella Norienne C. Dacapio](https://github.com/cheaneatine)
+- [Ella Norienne C. Dacapio](https://github.com/DacapioElla)
 - [Cherry Lee H. Jimenez](https://github.com/cheaneatine)
 
 This project was developed as part of the **CS121 - Computer Programming 2** course at the **University of Science and Technology of Southern Philippines**.
